@@ -88,3 +88,26 @@ body {
     filter: grayscale(0%);
 
 }
+
+
+.mg-submit {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 1em;
+    color: var(--main-header-bg);
+    background-color: var(--teal-color);
+    padding: 10px;
+    width: 100px;
+    border: none;
+}
+
+label {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: var(--regular-font-color);
+}
+
+.mg-text-area {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: var(--regular-font-color);
+    height: 8rem !important;
+    border: 1px solid var(--content-border);
+}
