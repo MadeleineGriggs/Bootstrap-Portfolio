@@ -111,3 +111,16 @@ label {
     height: 8rem !important;
     border: 1px solid var(--content-border);
 }
+
+.mg-footer {
+    height: 2rem;
+    background-color: var(--footer-background);
+    border-top: 8px solid var(--teal-color);
+    text-align: center;
+    bottom: 0;
+}
+
+.mg-footer-text {
+    color: var(--main-header-border);
+    font-size: 0.8em;
+}
