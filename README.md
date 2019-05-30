@@ -2,7 +2,7 @@
 A simple web porfolio site, using bootstrap for styling and responsive behaviour.
 
 ## About this Project
-this is a simple website designed to showcase a portfolio of work for web development. It was made as part of a project for the UofT coding bootcamp. The purpose of this project was to gain an understanding of how to use Bootstrap. The design is based on an earlier project, which you can find here:
+this is a simple website designed to showcase a portfolio of work for web development. It was made as part of a project for the UofT coding bootcamp. The purpose of this project was to gain an understanding of how to use Bootstrap, and general knowledge of responsive websites. The design is based on an earlier project, which you can find here:
 [Basic Portfolio](https://typicu.github.io/Basic-Portfolio/)
 
 the second part of this assignment, a responsive portfolio that does not use bootstrap, can be found here:
@@ -33,4 +33,12 @@ Please note this project relies on only the CSS portion of the BootstrapCDN. Pop
 #### About Page
 
 ![Image of about page](assets/images/bootstrap_portfolio_about_screenshot.PNG)
+
+#### Portfolio Page
+
+![Image of portfolio page](assets/images/bootstrap_portfolio_portfolio_screenshot.PNG)
+
+#### Contact Page
+
+![Image of contact page](assets/images/bootstrap_portfolio_contact_screenshot.PNG)
 
