@@ -10,6 +10,6 @@ the second part of this assignment, a responsive portfolio that does not use boo
 ## Information about the Theme
 
 ### Color's Used
-- ![#4aaaa5](https://placehold.it/15/4aaaa5/000000?text=+) `#4aaaa5`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#4aaaa5](https://placehold.it/15/4aaaa5/000000?text=+) `#4aaaa5 - Main Accent Color`
+- ![#397f7b](https://placehold.it/15/397f7b/000000?text=+) `#397f7b - Darker Accent Color`
+- ![#777777](https://placehold.it/15/777777/000000?text=+) `#777777 - Standard Font Color`
