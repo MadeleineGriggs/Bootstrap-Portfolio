@@ -1,6 +1,9 @@
 # Bootstrap-Portfolio
 A simple web porfolio site, using bootstrap for styling and responsive behaviour.
 
+## Author
+Madeleine Griggs, original design by the UofT coding bootcamp.
+
 ## About this Project
 this is a simple website designed to showcase a portfolio of work for web development. It was made as part of a project for the UofT coding bootcamp. The purpose of this project was to gain an understanding of how to use Bootstrap, and general knowledge of responsive websites. The design is based on an earlier project, which you can find here:
 [Basic Portfolio](https://typicu.github.io/Basic-Portfolio/)
