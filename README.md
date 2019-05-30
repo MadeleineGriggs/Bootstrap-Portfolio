@@ -32,5 +32,5 @@ Please note this project relies on only the CSS portion of the BootstrapCDN. Pop
 
 #### About Page
 
-![Image of about page](bootstrap-portfolio/assets/images/bootstrap_portfolio_about_screenshot.PNG)
+![Image of about page](assets/images/bootstrap_portfolio_about_screenshot.PNG)
 
